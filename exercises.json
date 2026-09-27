@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Push-ups",
+    "group": "arms",
+    "min_time": 30,
+    "max_time": 60,
+    "description": "Standard push-ups"
+  },
+  {
+    "name": "Squats",
+    "group": "legs",
+    "min_time": 30,
+    "max_time": 60,
+    "description": "Bodyweight squats"
+  },
+  {
+    "name": "Plank",
+    "group": "core",
+    "min_time": 20,
+    "max_time": 60,
+    "description": "Forearm plank"
+  },
+  {
+    "name": "Jumping jacks",
+    "group": "cardio",
+    "min_time": 20,
+    "max_time": 45,
+    "description": "Full body cardio"
+  }
+]
